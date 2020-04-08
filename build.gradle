@@ -1,0 +1,56 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:3.6.2'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+
+    }
+}
+
+ext {
+    // Compile Sdk Version
+    compileSdkVersion = 29
+    // Minimum Sdk Version
+    minSdkVersion = 17
+    // Target Sdk Version
+    targetSdkVersion = 29
+    // Version Code
+    versionCode = 2
+    // Version Name
+    versionName = "1.0.1"
+    // AppCompat
+    appcompat = '1.1.0'
+    // ConstraintLayout
+    constraintlayout = '1.1.3'
+    // Test
+    junit = '4.12'
+    junit2 = '1.1.1'
+    espresso = '3.2.0'
+    // Material
+    material = '1.1.0'
+    // ButterKnife
+    butterknife = '10.2.1'
+    // Glide
+    glide = '4.11.0'
+    // Google Ads
+    googleads = '19.0.1'
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconNoDpi">
+        <ignore path="src/main/res/drawable-hdpi/email.png" />
+        <ignore path="src/main/res/drawable-hdpi/facebook.png" />
+        <ignore path="src/main/res/drawable-hdpi/instagram.png" />
+        <ignore path="src/main/res/drawable-hdpi/twitter.png" />
+        <ignore path="src/main/res/drawable-hdpi/twitter.png" />
+        <ignore path="src/main/res/drawable-hdpi/website.png" />
+        <ignore path="src/main/res/drawable-hdpi/whatsapp.png" />
+        <ignore path="src/main/res/drawable-mdpi/email.png" />
+        <ignore path="src/main/res/drawable-mdpi/facebook.png" />
+        <ignore path="src/main/res/drawable-mdpi/instagram.png" />
+        <ignore path="src/main/res/drawable-mdpi/twitter.png" />
+        <ignore path="src/main/res/drawable-mdpi/website.png" />
+        <ignore path="src/main/res/drawable-mdpi/whatsapp.png" />
+        <ignore path="src/main/res/drawable-xhdpi/email.png" />
+        <ignore path="src/main/res/drawable-xhdpi/facebook.png" />
+        <ignore path="src/main/res/drawable-xhdpi/instagram.png" />
+        <ignore path="src/main/res/drawable-xhdpi/twitter.png" />
+        <ignore path="src/main/res/drawable-xhdpi/website.png" />
+        <ignore path="src/main/res/drawable-xhdpi/whatsapp.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/email.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/facebook.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/instagram.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/twitter.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/website.png" />
+        <ignore path="src/main/res/drawable-xxhdpi/whatsapp.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/email.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/facebook.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/instagram.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/twitter.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/website.png" />
+        <ignore path="src/main/res/drawable-xxxhdpi/whatsapp.png" />
+    </issue>
+</lint>

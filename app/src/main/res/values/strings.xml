@@ -1,0 +1,33 @@
+<resources>
+    <!--Default-->
+    <string name="app_name">Heart Rate Monitor</string>
+    <!--Link-->
+    <string name="app_link">https://play.google.com/store/apps/details?id=com.martiandeveloper.heartratemonitor</string>
+    <string name="facebook">https://www.facebook.com/Martian-Developer-112019446941119/</string>
+    <string name="instagram">https://www.instagram.com/martiandeveloper/</string>
+    <string name="twitter">https://twitter.com/Murad58349993/</string>
+    <string name="whatsapp">tel:+994554987507</string>
+    <string name="website">http://martiandeveloper.com/</string>
+    <string name="email">app.martiandeveloper@gmail.com</string>
+    <string name="google_play">https://play.google.com/store/apps/dev?id=6834191715264686209</string>
+    <string name="privacy_policy_link">https://heartratemonitorapp.blogspot.com/p/privacy-policy.html</string>
+    <!--Ad-->
+    <string name="heartratemonitor_main_banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="heartratemonitor_main_interstitial">ca-app-pub-3940256099942544/1033173712</string>
+    <!--In App-->
+    <string name="about">About</string>
+    <string name="share">Share</string>
+    <string name="rate_us">Rate us</string>
+    <string name="check_out">Check out this app on Google Play:</string>
+    <string name="other_apps">Click here to see our other apps</string>
+    <string name="contact_us">Contact us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="copyright1">© Copyright</string>
+    <string name="copyright2">All rights reserved</string>
+    <string name="credit">Credit</string>
+    <string name="icon">Icon: www.flaticon.com</string>
+    <string name="send_via">Send via</string>
+    <string name="put_your_finger">Put your finger on the phone\'s camera and stay still.</string>
+    <string name="check_again">Check again</string>
+    <string name="_45_45">--</string>
+</resources>

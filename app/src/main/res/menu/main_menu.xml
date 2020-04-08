@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/main_menu_share"
+        android:orderInCategory="100"
+        android:title="@string/share"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/main_menu_rate_us"
+        android:orderInCategory="200"
+        android:title="@string/rate_us"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/main_menu_about"
+        android:orderInCategory="300"
+        android:title="@string/about"
+        app:showAsAction="never" />
+</menu>
